@@ -1,3 +1,3 @@
 Git Basics
 
-I’m learning the basics of Git and Github.ksfd
+I’m learning the basics of Git and Github.
